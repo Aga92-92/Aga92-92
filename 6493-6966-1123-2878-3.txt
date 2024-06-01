@@ -1,0 +1,10 @@
+Generated with creditcardgenerator.app
+
+Card Number : 6493-6966-1123-2878-3
+Brand : Discover Card
+Name : Julie Spinka
+Address : 5866 Mayert Turnpike, South Gina, Florida, usa
+CVV : 182
+Expiry Date : 06/2029
+
+Disclaimer: Credit cards generated with our website does not belongs to any real customers and does not hold any money. Use it only for the payment flow testing.
